@@ -26,6 +26,8 @@ h1
 
 #tagline
 {
+  font-family: 'Roboto', sans-serif;
+  font-weight:700;
   color:#11999E;
   font-size:2rem;
   position: relative;
